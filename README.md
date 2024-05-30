@@ -1,4 +1,6 @@
-# Writeup-DB
+![image](https://github.com/Writeup-DB/.github/assets/26184236/5e941748-dde3-488a-abac-8aac1dfc8247)
+
+# Writeup-DB -  Read more, Learn more!
 
 Welcome to Writeup-DB, a platform designed to enhance your learning experience by providing a comprehensive collection of external writeups. Whether you're interested in Bug Bounty Writeups, CVE Writeups, Certification Journey Writeups, or technical Cheatsheets, this platform has got you covered. With Writeup-DB, you can conveniently access a wide range of educational resources without the need to tirelessly search the vast expanse of the internet.
 
@@ -18,19 +20,10 @@ Writeup-DB aims to foster a community of continuous learning and knowledge shari
 - **Website**: [Writeup-DB](https://writeup-db.com/)
 - **Twitter**: [@writeup_db](https://twitter.com/writeup_db)
 
-## Contribution
+## Partners
 
-We welcome contributions from the community! If you have a writeup you'd like to share, please follow these steps:
+- **Securityium**: [Securityium](https://Securityium.com/)
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/writeup`).
-3. Commit your changes (`git commit -m 'Add new writeup'`).
-4. Push to the branch (`git push origin feature/writeup`).
-5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
