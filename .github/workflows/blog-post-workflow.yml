@@ -4,7 +4,10 @@ on:
     # Runs every hour
     - cron: '0 8 * * *'
   workflow_dispatch:
-
+  
+permissions:
+  contents: write
+  
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
