@@ -18,6 +18,12 @@ Writeup-DB aims to foster a community of continuous learning and knowledge shari
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Solving the Prompt.ml XSS Challenge: A Comprehensive Guide](https://www.writeup-db.com/solving-the-prompt-ml-xss-challenge-a-comprehensive-guide/)
+- [Essential Linux Commands Every System Administrator Should Know](https://www.writeup-db.com/essential-linux-commands-every-system-administrator-should-know/)
+- [How the MQTT Protocol Powers IoT Devices: A Deep Dive](https://www.writeup-db.com/how-the-mqtt-protocol-powers-iot-devices-a-deep-dive/)
+- [What is ICMP &lpar;Internet Control Message Protocol&rpar;? Understanding Ping and Traceroute](https://www.writeup-db.com/what-is-icmp-internet-control-message-protocol-understanding-ping-and-traceroute/)
+- [VPN Protocols Explained: PPTP, L2TP, OpenVPN, and WireGuard](https://www.writeup-db.com/vpn-protocols-explained-pptp-l2tp-openvpn-and-wireguard/)
+- [How to Secure Your Linux Server: Best Practices for System Administrators](https://www.writeup-db.com/how-to-secure-your-linux-server-best-practices-for-system-administrators/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with Us
