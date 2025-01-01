@@ -20,11 +20,6 @@ Writeup-DB aims to foster a community of continuous learning and knowledge shari
 - **Website**: [Writeup-DB](https://writeup-db.com/)
 - **Twitter**: [@writeup_db](https://twitter.com/writeup_db)
 
-## Partners
-
-- **Securityium**: [Securityium](https://Securityium.com/)
-
-
 ## Acknowledgements
 
 We would like to thank all the contributors and the broader community for their continuous support and knowledge sharing.
