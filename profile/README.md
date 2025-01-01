@@ -16,7 +16,7 @@ Welcome to Writeup-DB, a platform designed to enhance your learning experience b
 Writeup-DB aims to foster a community of continuous learning and knowledge sharing. By centralizing these writeups, we simplify the process of accessing educational content and empower individuals to expand their horizons. Dive into the world of writeups at Writeup-DB, and let the pursuit of knowledge lead you to new heights.
 
 
-#### 📕 **Latest Blog Posts**
+## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
