@@ -18,12 +18,12 @@ Writeup-DB aims to foster a community of continuous learning and knowledge shari
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Active Directory Reconnaissance: A Protocol-by-Protocol Scanning Guide &lpar;GOAD Lab&rpar;](https://www.writeup-db.com/active-directory-reconnaissance-a-protocol-by-protocol-scanning-guide-goad-lab/)
 - [Protected: Active Directory Deep Dive: Architecture, Protocols, Authentication, and Attack Surface](https://www.writeup-db.com/active-directory-deep-dive-architecture-protocols-authentication-and-attack-surface/)
 - [Building a GOAD &lpar;Game of Active Directory&rpar; Lab on VirtualBox: A Complete Setup Guide](https://www.writeup-db.com/building-a-goad-game-of-active-directory-lab-on-virtualbox-a-complete-setup-guide/)
 - [403Override: Bypass Restricted Access](https://www.writeup-db.com/403override-bypass-restricted-access/)
 - [Solving the Prompt.ml XSS Challenge: A Comprehensive Guide](https://www.writeup-db.com/solving-the-prompt-ml-xss-challenge-a-comprehensive-guide/)
 - [Essential Linux Commands Every System Administrator Should Know](https://www.writeup-db.com/essential-linux-commands-every-system-administrator-should-know/)
-- [How the MQTT Protocol Powers IoT Devices: A Deep Dive](https://www.writeup-db.com/how-the-mqtt-protocol-powers-iot-devices-a-deep-dive/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with Us
