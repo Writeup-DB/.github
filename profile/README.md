@@ -18,12 +18,12 @@ Writeup-DB aims to foster a community of continuous learning and knowledge shari
 
 ## 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [SQL Injection: A Practical Guide for Developers and Security Learners](https://www.writeup-db.com/sql-injection-a-practical-guide-for-developers-and-security-learners/)
 - [AS-REP Roasting &amp; Kerberoasting: A Comprehensive Technical Deep Dive](https://www.writeup-db.com/as-rep-roasting-kerberoasting-a-comprehensive-technical-deep-dive/)
 - [Active Directory Reconnaissance: A Protocol-by-Protocol Scanning Guide &lpar;GOAD Lab&rpar;](https://www.writeup-db.com/active-directory-reconnaissance-a-protocol-by-protocol-scanning-guide-goad-lab/)
-- [Protected: Active Directory Deep Dive: Architecture, Protocols, Authentication, and Attack Surface](https://www.writeup-db.com/active-directory-deep-dive-architecture-protocols-authentication-and-attack-surface/)
+- [Active Directory Deep Dive: Architecture, Protocols, Authentication, and Attack Surface](https://www.writeup-db.com/active-directory-deep-dive-architecture-protocols-authentication-and-attack-surface/)
 - [Building a GOAD &lpar;Game of Active Directory&rpar; Lab on VirtualBox: A Complete Setup Guide](https://www.writeup-db.com/building-a-goad-game-of-active-directory-lab-on-virtualbox-a-complete-setup-guide/)
 - [403Override: Bypass Restricted Access](https://www.writeup-db.com/403override-bypass-restricted-access/)
-- [Solving the Prompt.ml XSS Challenge: A Comprehensive Guide](https://www.writeup-db.com/solving-the-prompt-ml-xss-challenge-a-comprehensive-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with Us
